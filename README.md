@@ -4,7 +4,7 @@ Self driving car in GTA V using PilotNet and MobileNet SSD.
 PilotNet is employed for lane-keeping, ensuring the car stays on the road, while MobileNet SSD is utilized for detecting nearby cars. 
 This enables the self-driving car to brake when it approaches other vehicles in close proximity.
 
-It is recommended to use speed limiter since this project doesn't contain throttle prediction.
+It is recommended to use speed limiter since this project doesn't contain throttle prediction. When crossing the intersection user should correct the vehicle since turning at the intersection is not implemented.
 
 Files:
 -
